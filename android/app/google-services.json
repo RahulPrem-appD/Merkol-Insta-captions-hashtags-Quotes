@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732749197030",
+    "firebase_url": "https://merkol-8a459.firebaseio.com",
+    "project_id": "merkol-8a459",
+    "storage_bucket": "merkol-8a459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732749197030:android:7238d11100bd4ece8a1527",
+        "android_client_info": {
+          "package_name": "tech.seyali.merkol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732749197030-flves96bgcbj3d8cjcol1k54aufmv6pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWveRdEdsca4risZc4u02fphwYYV6IV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732749197030-flves96bgcbj3d8cjcol1k54aufmv6pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
